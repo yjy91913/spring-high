@@ -10,7 +10,7 @@ public class GPBeanDefinition {
 
     String SCOPE_SINGLETON = "singleton";
 
-    String SCOPE_DEFAULT = "singleton";
+    String SCOPE_DEFAULT = "singleton1";
 
     private String scope = SCOPE_DEFAULT;
 
