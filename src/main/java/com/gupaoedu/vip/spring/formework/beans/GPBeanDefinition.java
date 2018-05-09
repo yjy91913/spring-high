@@ -8,7 +8,7 @@ package com.gupaoedu.vip.spring.formework.beans;
 //相当于保存在内存中的配置
 public class GPBeanDefinition {
 
-    String SCOPE_SINGLETON = "singleton";
+    String SCOPE_SINGLETON = "singleton1";
 
     String SCOPE_DEFAULT = "singleton1";
 
